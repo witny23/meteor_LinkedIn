@@ -4,14 +4,14 @@
 <ul>
 <li>Allow all users to view posted topics</li>
 <li>Allow users to add their own topic</li>
-<li>Allow users to provide a thumbs up for any topic and keep a running total of thumbs up&nbsp;</li>
-<li>Newest on top for topics&nbsp;</li>
+<li>Allow users to provide a thumbs up for any topic and keep a running total of thumbs up</li>
+<li>Newest on top for topics</li>
 <li>Allow users to reply to topics (replies show up directly under topic the reply is related to)
 <ul>
-<li>Allow users to vote up or down replies&nbsp;</li>
+<li>Allow users to vote up or down replies</li>
 </ul>
 </li>
-<li>Allow users to provide links to external sources<span style="text-decoration: line-through;"></span></li>
+<li>Allow users to provide links to external sources</li>
 </ul>
 <p><strong>Possible Bonus</strong></p>
 <ul>
@@ -35,7 +35,7 @@
 </tr>
 <tr>
 <td>40</td>
-<td>Allow users to: post new topics, view posted topics, and provide thumbs up and thumbs down or like/dis-like (or something similar) for a topic with a running total <span style="text-decoration: line-through;">for each</span>. Newest topics go on top (<span style="text-decoration: line-through;">with time stamp</span>). Style using imports in _main.scss is expected.</td>
+<td>Allow users to: post new topics, view posted topics, and provide thumbs up and thumbs down or like/dis-like (or something similar) for a topic with a running total. Newest topics go on top. Style using imports in _main.scss is expected.</td>
 </tr>
 <tr>
 <td>2</td>
