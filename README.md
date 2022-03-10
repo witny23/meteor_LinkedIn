@@ -43,11 +43,16 @@
 </tr>
 <tr>
 <td>2</td>
-<td>Allow users to vote up or down replies&nbsp;</td>
+<td>Allow users to vote up or down replies</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Allow users to provide usable (clickable) links to external sources</td>
+</tr>
+  
+<tr>
+<td>2</td>
+<td>Deployed on google server</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -55,7 +60,7 @@
 </tr>
 
 <tr>
-<td>46</td>
+<td>48</td>
 <td>Total</td>
 </tr>
 <tr>
@@ -77,5 +82,6 @@
 </table>
 <h3>Submissions</h3>
 <ul>
-<li>push this project up to github classroom (I am working on that)</li>
+<li>push this project up to github classroom </li>
+  <li>Submit the url of your project on google</li>
 </ul>
