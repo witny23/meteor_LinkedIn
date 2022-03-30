@@ -13,7 +13,7 @@ Meteor.startup(() => {
 
     let jsx = (
       <div>
-        {<h1>{title}</h1>}
+        <h1>{title}</h1>
       </div>
     );
     ReactDom.render(jsx, document.getElementById('react-target'));
